@@ -18,3 +18,13 @@ Part 2
 - second pass is 7194 but that is to high 
 - The issue was not handling the case where steps > 100 correctly again.
 - the left logic was incorrect. it needed to only check passing 0 not being equal to 0
+
+
+# Day 2: 
+
+Part 1:
+- I first tried to mathematically calcuate all possible repeating IDs in the range to save on computations. This proved tedious and confusing
+- Ended up going with brute force 
+
+Part 2: 
+- Was pretty easy. Again it is a classic sliding window on each number. Brute Force, while expensive was easy to solve the problem with!

@@ -1,3 +1,5 @@
+# Link to Day 2 Problem:  https://adventofcode.com/2025/day/2 
+# Link to Input Data:  https://adventofcode.com/2025/day/2/input
 
 def input_reader(file_path):
     with open(file_path, 'r') as f:
