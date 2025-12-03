@@ -28,3 +28,12 @@ Part 1:
 
 Part 2: 
 - Was pretty easy. Again it is a classic sliding window on each number. Brute Force, while expensive was easy to solve the problem with!
+
+
+# Day 3:
+
+Part 1:
+- Super easy and strightforward. Just a couple of loops and we're good to go! 
+
+Part 2: 
+- Super similar to a Leetcode problem, you want to pop values when they don't make the number bigger. For once Leetcode comes in handy lol
