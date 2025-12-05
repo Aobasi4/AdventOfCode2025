@@ -37,3 +37,12 @@ Part 1:
 
 Part 2: 
 - Super similar to a Leetcode problem, you want to pop values when they don't make the number bigger. For once Leetcode comes in handy lol
+
+
+# Day 4: 
+
+Part 1:
+- Super simple again, just check every adjacent position and track 
+
+Part 2:
+- A little trickier, but easy to solve with Recursion
