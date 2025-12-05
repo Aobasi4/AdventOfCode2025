@@ -42,7 +42,19 @@ Part 2:
 # Day 4: 
 
 Part 1:
-- Super simple again, just check every adjacent position and track 
+- Super simple again, just check every adjacent position and track. Initially I forgot that @ were the only valid TP rolls so
+- The answer was to large, fixed it
 
 Part 2:
 - A little trickier, but easy to solve with Recursion
+
+# Day 5:
+
+Part 1: 
+- Simple enough to check each value in the ranges. 
+
+Part 2:
+
+- First tried to use Math (end-start+1) but this failed because of overlap
+- Attempted Brute force but this also failed even using a set for O(1) lookups 
+- Finally rembered interval union w sorting and used that to solve the brute force problem 

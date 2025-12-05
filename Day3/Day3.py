@@ -1,3 +1,4 @@
+# Link to Day 3 Problem:  https://adventofcode.com/2025/day/3
 
 def input_reader(file_path):
     with open(file_path, 'r') as f:
